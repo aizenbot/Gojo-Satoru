@@ -23,14 +23,14 @@ global.owner = ['201115823431']
 global.premium = ['201115823431']
 global.ownernomer = '201115823431'
 global.ownername = '♛ الامبراطور ايـتـشـيـغـو ♛'
-global.botname = '♛ غوجو بوت ♛'
-global.footer = '♛ غوجو بوت ♛'
+global.botname = '♛ ايـزن بوت ♛'
+global.footer = '♛ ايـزن بوت ♛'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://www.instagram.com/k_ic9n/'
 global.myweb = 'https://www.youtube.com/channel/UCiYEeudxm1l6FatfOsA3O4w'
-global.packname = 'https://Wa.Me/+201553520195'
-global.author = '[ ايـتـشـيـغـو ]'
+global.packname = '𓆩 𝐀𝐈𝐙𝐄𝐍 ✫ 𝐈𝐂𝐇𝐈𝐆𝐎 𓆪'
+global.author = 'ايــزن عـمـك'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -44,11 +44,11 @@ global.mess = {
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
     wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 2 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 100000,
     monayawal: 1000
 }
    global.rpg = {
